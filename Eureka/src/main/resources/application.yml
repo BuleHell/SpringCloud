@@ -1,0 +1,5 @@
+﻿spring:
+  application:
+    name: eureka-server-cluster
+  profiles:
+    active: server1
